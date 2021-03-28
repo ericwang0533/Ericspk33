@@ -1,6 +1,6 @@
 # Hi, I'm **Eric**
 - Sophomore at Walnut HS
-- Computer Science | Java | Algorithms | USACO | ML & AI | Backend Dev | FBLA | CYPA | Forensics | HODL
+- Computer Science | Java | Algorithms | USACO | ML & AI | Backend Dev | FBLA | CYPA | Forensics
 - [@whscompsciclub](https://github.com/whscompsciclub) President
 - Contact: [Email](mailto:ericspk33@gmail.com)
 
